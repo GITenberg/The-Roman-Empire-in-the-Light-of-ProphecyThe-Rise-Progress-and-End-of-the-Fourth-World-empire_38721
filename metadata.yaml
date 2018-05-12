@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '39624'
     url: http://www.gutenberg.org/2009/agents/39624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38721#The-Roman-Empire-in-the-Light-of-ProphecyThe-Rise-Progress-and-End-of-the-Fourth-World-empire
 gutenberg_issued: '2012-01-31'
 gutenberg_type: Text
 identifiers:
