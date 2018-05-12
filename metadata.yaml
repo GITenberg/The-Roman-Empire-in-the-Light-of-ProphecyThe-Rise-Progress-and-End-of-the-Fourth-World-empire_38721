@@ -1,0 +1,31 @@
+_repo: The-Roman-Empire-in-the-Light-of-ProphecyThe-Rise-Progress-and-End-of-the-Fourth-World-empire_38721
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vine, W.E. (William Edwy)
+    aliases:
+    - Vine, William Edwyn
+    - Vine, William Edwy
+    birthdate: 1873
+    deathdate: 1949
+    gutenberg_agent_id: '39624'
+    url: http://www.gutenberg.org/2009/agents/39624
+description: ''
+gutenberg_issued: '2012-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Prophecies'
+- !lcc 'BS'
+title: 'The Roman Empire in the Light of Prophecy
+
+  The Rise, Progress, and End of the Fourth World-empire'
+url: http://www.gutenberg.org/ebooks/38721
